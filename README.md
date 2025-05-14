@@ -56,10 +56,4 @@ photo1.jpg,#d4c5b9,#7a5c3b,#1e1c1a
 photo2.jpg,#a1b2c3,#334455,#ddeeff
 ```
 
-## License
 
-This project is licensed under the MIT License.
-
-## Author
-
-[Your Name] – GitHub: [@your-username](https://github.com/your-username)
